@@ -1,0 +1,11 @@
+.video_header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  color: #fff;
+}
+.video_header > * {
+  padding: 20px;
+}
